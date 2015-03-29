@@ -22,7 +22,7 @@ Build it
 - Run `bower install` to install frontend dependencies
 - Run `gulp` to build the library
 
-Configure your xBox 360 controller<a id="configure"></a>
+<a id="configure"></a>Configure your xBox 360 controller
 --------------------------------------
 
 I use OSX (Yosemite 10.10.2 at the moment of writting these instructions).
