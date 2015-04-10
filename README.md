@@ -9,7 +9,7 @@ You need an [xBox 360 controller configured](#configure-your-xbox-360-controller
 Usage
 --------------------------------------
 
-Copy the library into your application
+Copy the [library](https://raw.githubusercontent.com/vr-components/xboxpad/master/build/xboxpad.js) into your application
 
 ```js
 
