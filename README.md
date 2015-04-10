@@ -1,4 +1,4 @@
-XboXPad
+xBoxPad
 ==================================================
 
 This library to help you integrate an xBox 360 
@@ -12,6 +12,12 @@ Usage
 Copy the library into your application
 
 ```js
+
+xBoxPad.on('pressed', function(buttons) {
+  if (buttons.length === 1 && buttons[0] === 'A') {
+    ... do something ...
+  }
+});
 
 ```
 
