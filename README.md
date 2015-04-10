@@ -4,7 +4,7 @@ xBoxPad
 This library to help you integrate an xBox 360 
 controller in your web application
 
-You need [xBox 360 controller configured](#configure-your-xbox-360-controller) in your computer
+You need an [xBox 360 controller configured](#configure-your-xbox-360-controller) in your computer
 
 Usage
 --------------------------------------
